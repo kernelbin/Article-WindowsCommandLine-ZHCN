@@ -1,10 +1,21 @@
-# Windows命令行：背景知识
+Windows命令行：背景知识
+======================
 
 这是这个系列文章的第一篇。在这个系列文章里，我们将会探索有关命令行的方方面面。从命令行的前生今世，到我们正在如何改造并将Windows控制台和命令行现代化。
 
+> # 在系列“Windows命令行”里的文章：
+> Backgrounder [this post]<br>
+> The Evolution of the Windows Command-Line<br>
+> Inside the Windows Console<br>
+> Introducing the Windows Pseudo Console (ConPTY)<br>
+> Unicode and UTF-8 Output Text Buffer<br>
+
+
+
 不管你是一个经验丰富的老兵，还是初来乍到计算机领域（非常欢迎），希望你能发现这个系列的文章非常有趣，并且信息丰富。所以，泡一杯咖啡，准备好到命令行的起源来一次旋风之旅！
 
-# 在很久很久以前的一间机房内.....
+在很久很久以前的一间机房内.....
+-------------------------------
 
 在电子计算的早期，人们需要一种有效的方法向计算机发送指令和数据，并且能够看到他们的指令和计算的结果。
 
