@@ -29,6 +29,6 @@ Windows命令行：背景知识
 
 在随后的几年中，这项技术得到了改进，将传输速度提高到19,200bps，并用一个阴极射线管（CRT）显示器取代了先前嘈杂且操作麻烦的打印机。这种阴极射线管显示器通常与80年代和90年代的计算机终端相关联，比如无处不在的DEC VT100终端：
 
-![command-line-backgrounder-vt100-terminal](https://github.com/kernelbin/Article-WindowsCommandLine-ZHCN/blob/master/command-line-backgrounder-vt100-terminal.jpg)
+![command-line-backgrounder-vt100-terminal](https://github.com/kernelbin/Article-WindowsCommandLine-ZHCN/blob/master/command-line-backgrounder-vt100-terminal.jpg?raw=true)
 
 
