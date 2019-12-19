@@ -23,13 +23,12 @@ Windows命令行：背景知识
 
 操作员输入的字符将在本地缓存，并且以信号的形式沿着电缆（比如RS-232电缆），按每秒10个字符（或者说，110bps）从电传打印机发送到小型或者大型计算机上。
 
-此处应有图片
+![command-line-backgrounder-teletype](https://github.com/kernelbin/Article-WindowsCommandLine-ZHCN/blob/master/command-line-backgrounder-teletype.jpg?raw=true)
 
 > David Gesswein 超赞的网站 https://www.pdp8.net/ 有很多有关ASR33（以及PDP-8与其相关技术）的更多信息，包括照片，视频等。计算机上的程序将接收到输入的字符，并且决定如何处理它们，并且可以选择异步的将字符回传给电传打印机。电传打印机将会将显示或者打印出回传的字符，以便操作员做出回应。
 
 在随后的几年中，这项技术得到了改进，将传输速度提高到19,200bps，并用一个阴极射线管（CRT）显示器取代了先前嘈杂且操作麻烦的打印机。这种阴极射线管显示器通常与80年代和90年代的计算机终端相关联，比如无处不在的DEC VT100终端：
 
-此处应有图片
-
+![command-line-backgrounder-vt100-terminal](https://github.com/kernelbin/Article-WindowsCommandLine-ZHCN/blob/master/command-line-backgrounder-vt100-terminal.jpg)
 
 
