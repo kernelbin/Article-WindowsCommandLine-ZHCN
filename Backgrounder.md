@@ -35,3 +35,7 @@ Windows命令行：背景知识
 尽管技术在不断改进，这种终端向运行在计算机上的程序发送字符，计算机通过文本输出向用户作出响应的模式却保留了下来，并且留存至今，仍是所有平台上所有命令行和终端的交互模式的根基！
 
 ![command-line-backgrounder-command-line-terminal](https://github.com/kernelbin/Article-WindowsCommandLine-ZHCN/blob/master/command-line-backgrounder-command-line-terminal.png?raw=true)
+
+这个模型十分优雅的原因之一是，这个系统中的每一个组存部分都始终保持简单和一致性： 键盘输出的字符被缓存下来，并且以电信号发送给与之连接的电脑。输出设备简单的将计算机输出的字符打印到显示设备上（比如，纸张或是屏幕上） 。
+
+并且由于这个系统的每一组成部分都与下一个组成部分通过简单的传递字符流来通信，所以引进不同的通信设施变得相对简单，比如添加一个调制解调器（Modem，猫）使得输入输出字符流可以通过电话线远距离传输。
