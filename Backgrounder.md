@@ -51,3 +51,5 @@ Windows命令行：背景知识
 * 可显示的拉丁字符 A-Z (65-90), a-z (97-122), 0-9 (48-57)
 * 许多常见的标点符号
 * 一些不可显示的设备控制码 (0-31 和 127)
+
+![command-line-backgrounder-ascii](https://github.com/kernelbin/Article-WindowsCommandLine-ZHCN/blob/master/command-line-backgrounder-ascii.png?raw=true)
